@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yassine El Baite 👋
+**Full-Stack Web & AI Developer**
 
-<!--
-**YassineElbaite/YassineElbaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build web applications and explore AI & Data Science solutions.  
+🌱 Currently learning advanced Spring Boot & React integration.  
+🚀 Passionate about solving problems and creating efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Frontend:** React, Angular, HTML, CSS, JavaScript, TypeScript  
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**AI & Data Science:** Python, Pandas, Scikit-learn, TensorFlow  
+**Other Tools:** Git, Docker, VSCode, IntelliJ IDEA
+
+---
+
+## 🌐 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) | [GitHub](https://github.com/YassineElbaite) | [Portfolio](https://YOUR_PORTFOLIO_LINK)
+
+---
+
+## 📂 Projects
+
+- **Web Portfolio:** React + Tailwind project showcasing skills and projects  
+- **AI Spam Detector:** Python + Flask + ML project  
+- **Mini Spring Boot Apps:** CRUD apps with MySQL / H2 database
+
+---
+
+*"Strive not to be a success, but rather to be of value."* – Albert Einstein
