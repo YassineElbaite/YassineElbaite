@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Yassine El Baite 👋<br>My name is ** Yassine El Baite **, and I'm a **Full-Stack Web & AI Developer** from **Laayoune, Morocco**.  <br><br>I specialize in building web applications, exploring AI and Data Science solutions, and creating efficient software to solve real-world problems.</p>
+<p align="left">Hi, I'm Yassine El Baite 👋<br>My name is ** Yassine El Baite **, and I'm a Full-Stack Web & AI Developer Morocco.  <br><br>I specialize in building web applications, exploring AI and Data Science solutions, and creating efficient software to solve real-world problems.</p>
 
 ###
 
